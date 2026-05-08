@@ -1,27 +1,19 @@
-#  NACA Airfoil Geometry and Aerodynamic Analysis Framework
+# Classical NACA Airfoil Modeling and Aerodynamic Analysis Framework
 
-!\[Project Status](https://img.shields.io/badge/status-academic--project-blue)
-
-!\[License](https://img.shields.io/badge/license-educational-green)
-
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+![Status](https://img.shields.io/badge/status-academic_project-blue)
+![Platform](https://img.shields.io/badge/platform-Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white)
 
 <p align="center">
 
-<img src="readme_figures/naca2412_geometry.png" width="800">
+<img src="readme_figures/naca2412_geometry.png" width="100%">
 
 </p>
-
-
 
 <p align="center">
 
 *Example airfoil geometry generated from the spreadsheet-based simulation model*
 
 </p>
-
-
 
 ## Overview
 
@@ -80,15 +72,15 @@ In addition, the aerodynamic analysis visualization framework includes:
 NACA-Airfoil-Geometry-and-Aerodynamic-Analysis-Framework/
 
 │
-├── naca_airfoil_modeling_framework.xlsm          # Spreadsheet-based parametric airfoil modeling framework
+├── naca_airfoil_modeling_framework.xlsm					# Spreadsheet-based parametric airfoil modeling framework
 │
-├── aerodynamic_analysis_of_selected_representative_naca_airfoils.xlsm		 # Interactive aerodynamic analysis and comparison framework
+├── aerodynamic_analysis_of_selected_representative_naca_airfoils.xlsm		# Interactive aerodynamic analysis and comparison framework
 │
-├── readme_figures/       # Illustrations used in the README
+├── readme_figures/       							# Illustrations used in the README
 │
-├── evolution_of_classical_naca_airfoil_families.pdf            # Final compiled study report
+├── evolution_of_classical_naca_airfoil_families.pdf            		# Final compiled study report
 │
-└── README.md             # Project documentation
+└── README.md             							# Project documentation
 
 ```
 
@@ -109,7 +101,7 @@ The implementation is intended to support preliminary aerodynamic interpretation
 
 <p align="center">
 
-<img src="readme_figures/cl-alpha_(naca0012_and_naca2412).png" width="800">
+<img src="readme_figures/lift_curve.png" width="80%">
 
 </p>
 
@@ -130,7 +122,7 @@ Working directly with airfoil reconstruction, coordinate generation, and geometr
 
 ## Simulation File
 
-- - `naca_airfoil_modeling_framework.xlsm`
+- `naca_airfoil_modeling_framework.xlsm`
   Spreadsheet-based parametric airfoil modeling framework
 
 
@@ -184,28 +176,17 @@ To prepare the geometry for CAD integration, use the Global Settings panel:
 
 ### Output
 
-The framework generates engineering-ready airfoil coordinate datasets and visualizes the reconstructed airfoil geometry through dynamic charts and parametric updates.
+The model generates engineering-ready airfoil coordinate datasets and visualizes reconstructed airfoil geometries through dynamic charts and real-time parametric updates.
 
-### Control panel interface
+### Example Interface
 
-#### NACA 4-digit series
-![Excel simulation interface](readme_figures/naca_4-digit_interface.png)
+<p align="center">
+<img src="readme_figures/example_interface.png" width="100%">
+</p>
 
-#### NACA 5-digit series
-![Excel simulation interface](readme_figures/naca_5-digit_interface.png)
-
-#### NACA 4-digit series modified
-![Excel simulation interface](readme_figures/naca_4-digit_modified_interface.png)
-
-#### NACA 5-digit series modified
-![Excel simulation interface](readme_figures/naca_5-digit_modified_interface.png)
-
-#### NACA 16-series
-![Excel simulation interface](readme_figures/naca_16-series_interface.png)
-
-#### NACA 6-series
-![Excel simulation interface](readme_figures/naca_6-series_interface.png)
-
+<p align="center">
+<em>Example interface of the simulation model for the NACA 4-digit airfoil family</em>
+</p>
 
 
 ## Applications
