@@ -125,6 +125,18 @@ Working directly with airfoil reconstruction, coordinate generation, and geometr
 `naca_airfoil_modeling_framework.xlsm`:
 Spreadsheet-based parametric airfoil modeling framework
 
+## Macro Notice
+
+Because the framework is distributed as an `.xlsm` file through GitHub, Microsoft Excel may disable macros by default after download.
+
+To enable the VBA functionalities:
+
+1. Right-click the downloaded `.xlsm` file
+2. Select `Properties`
+3. Check `Unblock`
+4. Click `Apply` and reopen the workbook
+
+Then choose `Enable Content` when opening the file in Excel.
 
 ## How to Use
 
