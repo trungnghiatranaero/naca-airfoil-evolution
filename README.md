@@ -122,8 +122,8 @@ Working directly with airfoil reconstruction, coordinate generation, and geometr
 
 ## Simulation File
 
-- `naca_airfoil_modeling_framework.xlsm`
-  Spreadsheet-based parametric airfoil modeling framework
+`naca_airfoil_modeling_framework.xlsm`:
+Spreadsheet-based parametric airfoil modeling framework
 
 
 ## How to Use
@@ -141,9 +141,9 @@ This framework is designed to be plug-and-play, requiring no installation other 
 * Modify the geometric design parameters using spin-button controls (e.g., for NACA 2412: \(m=0.02\), \(p=0.4\), \(t=0.12\)).
 
 * Access lists for airfoil selections:
- - NACA 4-digit and NACA 4-digit modified: Type of airfoil (cambered or symmetrical)
- - NACA 5-digit: Mean-line designation (210, 220, etc.)
- - NACA 6-series: Series (63, 64, etc.)  
+  * NACA 4-digit and NACA 4-digit modified: Type of airfoil (cambered or symmetrical)
+  * NACA 5-digit: Mean-line designation (210, 220, etc.)
+  * NACA 6-series: Series (63, 64, etc.)  
 
 ### 2. Engineering Scaling & Orientation
 
