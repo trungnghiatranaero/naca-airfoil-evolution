@@ -233,7 +233,3 @@ Physics student pursuing research interests in aerospace engineering, aerodynami
 
 GitHub: [@trungnghiatranaero](https://github.com/trungnghiatranaero)
 
-
-## License
-
-This project is released under the MIT License.
