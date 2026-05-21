@@ -185,7 +185,7 @@ The model generates engineering-ready airfoil coordinate datasets and visualizes
 ### Example Interface
 
 <p align="center">
-<img src="readme_figures/example_interface.png" width="100%">
+<img src="readme_figures/example_interface.gif" width="100%">
 </p>
 
 <p align="center">
