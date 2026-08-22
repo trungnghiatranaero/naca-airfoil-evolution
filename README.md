@@ -74,11 +74,11 @@ NACA-Airfoil-Geometry-and-Aerodynamic-Analysis-Framework/
 │
 ├── aerodynamic_analysis_of_selected_representative_naca_airfoils.xlsm		# Interactive aerodynamic analysis and comparison framework
 │
-├── readme_figures/       							# Illustrations used in the README
+├── readme_figures/       			# Illustrations used in the README
 │
-├── evolution_of_classical_naca_airfoil_families.pdf            		# Final compiled study report
+├── evolution_of_classical_naca_airfoil_families.pdf       		# Final compiled study report
 │
-└── README.md             							# Project documentation
+└── README.md             	# Project documentation
 
 ```
 
@@ -229,7 +229,7 @@ Potential future developments include:
 
 **Nghia T. Tran**
 
-Physics student pursuing research interests in aerospace engineering, aerodynamics, airfoil design, and computational modeling methodologies.
+Aspiring undergraduate pursuing research interests in aerospace engineering, aerodynamics, propulsion systems, and computational modeling methodologies.
 
 GitHub: [@trungnghiatranaero](https://github.com/trungnghiatranaero)
 
